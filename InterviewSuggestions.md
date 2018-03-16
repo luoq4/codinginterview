@@ -1,7 +1,7 @@
-# Wei's General Suggestions on Preparing Coding Interview
+# Wei's General Suggestions For College Students on Preparing Coding Interview
 A simple general guide for college students to prepare coding interviews based on my own experiences.
 
-## Modified Date: 3.6.2018 ##
+## Modified Date: 3.16.2018 ##
 ## Status: Draft
 
 ## Table of Contents
@@ -9,8 +9,7 @@ A simple general guide for college students to prepare coding interviews based o
     - [Resume](#resume)
       - [Keywords](#keywords)
       - [Education and Course Projects](#education-and-course-projects)
-      - [Working Experiences]()
-    - [Coding Skill preparation]()
+    - [Technical/Coding Interview]()
       - [Language]()
       - [Books]()
       - [Online Judge]()
@@ -34,7 +33,7 @@ A simple general guide for college students to prepare coding interviews based o
 Again, the purpose of this article is not for showing how to solve a specific coding problem. This is more close to a roadmap for preparing a code interview from writing resume to attending onsite interviews based my own experiences. I hope this strategy could help.
 
 ### Resume
-Having a resume is the first thing you need to do when apply for a full time or intern job. As big name companies usually receive millions(#https://www.inc.com/michael-schneider/its-harder-to-get-into-google-than-harvard.html) of resumes every year, they will have some sort of machine/HR screening system to do the intial filtering based on keywords/gpa/school/major,etc. So this is quite important for one to have a resume that could pass the first round machine/HR resume screen.
+Having a resume is the first thing you need to do when apply for a full time or intern job. As big name companies usually receive [millions](https://www.inc.com/michael-schneider/its-harder-to-get-into-google-than-harvard.html) of resumes every year, they will have some sort of machine/HR screening system to do the intial filtering based on keywords/gpa/school/major,etc. So this is quite important for one to have a resume that could pass the first round machine/HR resume screen.
 
 #### Keywords
 As some of you may know, if your resume is submitted as an internal referral, the machine screen may not apply to your resume but HR screen may also happen regardless your resume is an external or internal application. Most HR screen will follow a list of keywords and if your resume don't have them, you could be filtered out.Some people call this Buzzwords Screen. If you are looking for a CS related job,a resume with Electrical Engineering major is more like to be filtered out than a Electrical Engineering major with specialization in Computer Science or Computer Science Engineering. I know this sounds unfair as I met a lot of people with different majors doing great job in software development, but when they job market are crowded with appliers and the headcounts are limited, a company has to follow its rules to put CS major as first priority.
@@ -53,6 +52,25 @@ Here is a list of discussion about Buzz Words, take a look if you have time:
 #### Education and Course Projects
 For college students who don't have too many external working experiences(which will apply to everyone looking for their first job. Don't worry, nobody born with a software development job), education and course projects will play the biggest part of your resume unless you did lots of side projects.
 
-No HR/Hiring manager is expecting a green college student to have experiences of building Facebook, don't be shy to mention your course projects in your resume even though it is just a team homework. Just keep in mind, it's more effective to mention your course projects than just the title and contents of the courses. Your resume is not a mini version of your college syllabus. You should spend more words on explaining what you have done in a course project instead of just showing a title of the work.
+No HR/Hiring manager is expecting a green college student to have experiences of building a Windows or Facebook. Don't be shy to mention your course projects in your resume even though it is just a homework or group project. Just keep in mind, it's more effective to elaborate your course projects than just put the title and contents of the courses in your resume. Your resume is not a mini version of your college syllabus. You should spend more words on explaining what you have done in a course project instead of just listing courses contents.
 
-As long as you elaborate your work/contribution/learning from this project, it is valuable for them to know your background.
+As long as you can detail your work/contribution/learning from certain project, it is very valuable for their assessment.
+
+### Technical/Coding Interview
+I guess this is the most crucial part of all. No matter how fancy your resume is, in the end, for most software engineer jobs, there will be a coding interview, or technical interview. As I know, for some very senior software engineer position which is looking for candidates with 12+ years of working experinece, coding interview is still an inevatable part. So it is important for every engineer to build up and maintain a good coding interview skillset. 
+
+#### Languages
+Lots of college students asked me about what they should do in choosing an interview primary language. For most technical companies, languages don't matter as long as you are familiar with one of the main languages. Although some companies(very rare) might be requiring a specific interview language (Bloomberg usually asks interviewees to code in C++), most of the cases knowing one major languages (C++/JAVA/C#/Python/JavaScript) is pretty enough to handle the situation and college students should all be ok as all schools will require them to learn at least one of them. When scheduling your interviews with your HR, you can ask them or they will usually ask you first about your language preferrence. 
+
+The other question is about how well you should know the language. I think as long as you know the basic syntax like for/while loop, class, variable, array, list and common operations including functions/methods(print/sum/abs..),casting, exceptions and basic OOP related things(class/interface/overloading/overriding), you should be ok. It is totally ok to make syntax mistakes during interviews, your interviewers should understand that as long as you are  able to explain your thinkings/idea with pseudo code and not making siginificant language specific logic mistakes(things like writing a pointer in JAVA or using {} instead of indention in Python). A good technical company should have their technical interview focus on problem solving skills, algorithm, smartness or even computer sciences but never on syntax details. 
+
+Here is a article I found really useful:
+- [Choosing a Programming Language for Interviews](http://blog.codingforinterviews.com/best-programming-language-jobs/)
+
+### Books
+There are so many books you can read but I personally think the famous [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) is pretty enough. Overall, this book is serving more as a guide book instead of an ultimate bible. As the competition is growing daily, lots staff in this book have become either too simple or too-well-known-to-ask. For starters, I think you should definetely read this book (mostly focus on the coding questions) and build a clear understanding of 1.what data structure and algorithm is and 2.what kind of coding question you will be asked during a technical interviews. 
+However, don't spend too much time on reading this book as it's too well known and you still need code in real instead of just reading. My general idea on dealing with a technical interview question in this book and also the following Online Judge section is to look at the question and if you can not solve it or at least you think you can not solve it in an efficent way within 5 mins, go to the solution. This may sound frustrating (actually it does make people feel very frustrating),but trust me this is the most effeint way to "crack" coding interview. As more solutions you have seen, you will gain more experiences or I will call it "common senses" on handling an algorithm question and eventually you will become independent enough to solve something similar all by yourself. 
+
+### Online Judge
+
+
