@@ -5,30 +5,30 @@ A simple general guide for college students to prepare coding interviews based o
 ## Status: Draft
 
 ## Table of Contents
-  -[Preparation Strategy](#preparation-strategy)
-    -[Resume](#resume)
-      -[Keywords](#keywords)
-      -[Education and Course Projects](#education-and-course-projects)
-      -[Working Experiences]
-    -[Coding Skill preparation]
-      -[Language]
-      -[Books]
-      -[Online Judge]
-      -[Online Forum]
-      -[Communication Skill]
-    -[Job Applying Strategy]
-      -[Internal Referral]
-      -[Interns]
-      -[Full Time]
-  -[Knowledge Checklist]
-    -[Data Structure]
-      -[Basic]
-      -[Advance]
-    -[Algorithms]
-      -[Basic]
-      -[Advance]
-    -[Efficacy]
-      -[Time/Space Complexity]
+  - [Preparation Strategy](#preparation-strategy)
+    - [Resume](#resume)
+      - [Keywords](#keywords)
+      - [Education and Course Projects](#education-and-course-projects)
+      - [Working Experiences]()
+    - [Coding Skill preparation]()
+      - [Language]()
+      - [Books]()
+      - [Online Judge]()
+      - [Online Forum]()
+      - [Communication Skill]()
+    - [Job Applying Strategy]()
+      - [Internal Referral]()
+      - [Interns]()
+      - [Full Time]()
+  - [Knowledge Checklist]()
+    - [Data Structure]()
+      - [Basic]()
+      - [Advance]()
+    - [Algorithms]()
+      - [Basic]()
+      - [Advance]()
+    - [Efficacy]()
+      - [Time/Space Complexity]()
 
 ## Preparation Strategy
 Again, the purpose of this article is not for showing how to solve a specific coding problem. This is more close to a roadmap for preparing a code interview from writing resume to attending onsite interviews based my own experiences. I hope this strategy could help.
