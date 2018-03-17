@@ -67,10 +67,33 @@ The other question is about how well you should know the language. I think as lo
 Here is a article I found really useful:
 - [Choosing a Programming Language for Interviews](http://blog.codingforinterviews.com/best-programming-language-jobs/)
 
-### Books
+#### Books
 There are so many books you can read but I personally think the famous [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) is pretty enough. Overall, this book is serving more as a guide book instead of an ultimate bible. As the competition is growing daily, lots staff in this book have become either too simple or too-well-known-to-ask. For starters, I think you should definetely read this book (mostly focus on the coding questions) and build a clear understanding of 1.what data structure and algorithm is and 2.what kind of coding question you will be asked during a technical interviews. 
 However, don't spend too much time on reading this book as it's too well known and you still need code in real instead of just reading. My general idea on dealing with a technical interview question in this book and also the following Online Judge section is to look at the question and if you can not solve it or at least you think you can not solve it in an efficent way within 5 mins, go to the solution. This may sound frustrating (actually it does make people feel very frustrating),but trust me this is the most effeint way to "crack" coding interview. As more solutions you have seen, you will gain more experiences or I will call it "common senses" on handling an algorithm question and eventually you will become independent enough to solve something similar all by yourself. 
 
 ### Online Judge
+Online Judge might be the handiest tool for preparing technical interviews as they offer real coding experiences and a whole bunch of fresh questions that you may actually face in an interview. I only used [LeetCode](https://leetcode.com/) and I also heard [LintCode](https://www.lintcode.com/) is also good. My general philosophy on doing Online Judge is it's not a competition of knowing the most interview questions but building up a systematical skillset. Your focus should be on a qualitative result not quantitative. I know a few engineers who don't even know the existance of LeetCode or LintCode but they can pass every interview and I also know some candiates who did every single question in LeetCode but still have diffculties getting an offer. In short, when practising in Online Judges, focus on what you are actually learning rather than how many qestions you have solved. 
 
+Here is my advices based on my experiences about using LeetCode:
+1.Reading through Cracking Code Interview to know the all common things about data strctures and algorithm, if you can answer following questions you are ready to proceed:
+  - Can you write a quick sort and what is the time complexity?
+  - Give an example of DFS 
+  - Give an example of BFS
+  - Give an example you need a double-linked list
+  - What is the difference between Stack and Queue 
 
+2.As you started solving questions one-by-one, applying the strategy as I metioned before for reading the book questions: 
+  Step1. Look at the question, try to come up with a good and efficent idea (not the actualy code solution, just the thoughts) within 5 mins. If you have no idea or no confidence in your idea, go to Step 4. If you believe your solution could work start coding.
+  Step2. If you can not finish your code solution within 20 mins, go to step 4
+  Step3. No matter your solution pass or not pass the OJ, go to step 4
+  Step4. Google the MOST STANDARD solution you can find and understand: 
+    1. What kind of algorithm does the solution use? 
+    2. What is the time/complexity? 
+    3. Do you think this solution is better than yours(If you have one) or not? Why?
+These steps help you to gain more out of solving a problem. A common problem lots of poeple have, espcially those focus on quantity, is to have a very limited knowledge gain. If your goal is just to pass the Online Judge, you are missing the point in a big time.
+
+3.For some algorithm solution(Dijkstra, heap sort, trie, or even quick sort), you may have difficuties fully understanding it, then try to memory the solution template and practise writing from memory. I was once having difficuties writing a 100% correct heap sort including insertion/deletion/search, so I memorized it (about 50 lines of python code) and eventaully it helped me on fully understanding it.
+
+4.For Dynamic Programming, my advise is don't worry too much, As you may know, lots of people inculding myself consider DP as the most difficult part of algorithm but it is actually not that bad in technical interviews. Recently years, lots of comapny start to avoid DP in interviews as a DP question can not help the interviewer to assess candidates. Understand most easy/medium DP questions from OJ is enough. Don't waste your time in hard DP question, this is about passing the interview not algorithm science.
+
+####
