@@ -1,7 +1,7 @@
 # Wei's General Suggestions For College Students on Preparing Coding Interview
 A simple general guide for college students to prepare coding interviews based on my own experiences.
 
-## Modified Date: 3.16.2018 ##
+## Modified Date: 3.25.2018 ##
 ## Status: Draft
 
 ## Table of Contents
@@ -15,19 +15,15 @@ A simple general guide for college students to prepare coding interviews based o
       - [Online Judge]()
       - [Online Forum]()
       - [Communication Skill]()
-    - [Job Applying Strategy]()
-      - [Internal Referral]()
-      - [Interns]()
-      - [Full Time]()
   - [Knowledge Checklist]()
     - [Data Structure]()
       - [Basic]()
       - [Advance]()
     - [Algorithms]()
+      - [Time/Space Complexity]()
       - [Basic]()
       - [Advance]()
-    - [Efficacy]()
-      - [Time/Space Complexity]()
+      
 
 ## Preparation Strategy
 Again, the purpose of this article is not for showing how to solve a specific coding problem. This is more close to a roadmap for preparing a code interview from writing resume to attending onsite interviews based my own experiences. I hope this strategy could help.
@@ -96,4 +92,29 @@ These steps help you to gain more out of solving a problem. A common problem lot
 
 4.For Dynamic Programming, my advise is don't worry too much, As you may know, lots of people inculding myself consider DP as the most difficult part of algorithm but it is actually not that bad in technical interviews. Recently years, lots of comapny start to avoid DP in interviews as a DP question can not help the interviewer to assess candidates. Understand most easy/medium DP questions from OJ is enough. Don't waste your time in hard DP question, this is about passing the interview not algorithm science.
 
-####
+#### Online Forum
+There a lot of online forum where people talked about interview experiences and particular interview questions. Spending few minitues a day on them could be quite beneficial. The one I used most is [1point3acres](https://www.1point3acres.com/bbs/) where most contributers are Chinese and you can get lots of useful info and also share your own experiences. Another good place to go is [GeeksforGeeks](https://www.geeksforgeeks.org) where recently it got some major updates and become a very professional Coding Interview Preparation Commnunity. As most of Chinese students would prefer 1point3acres as it is mainly written in Chinese, I strongly encourage you to take a look at GeeksforGeeks for 1.Getting familiar with understanding/discussing your alogrithm questions in English; 2.Reading more well formatted and professional articles about solving a alogrithm problem in English. Most posts I found in 1point3acres are more closed to casual chats and it is not easy to systematically understand a solution thru those posts but therea are lots of well written aritcles on GeeskforGeeks where posters showed their step-by-step thoughts with lots of serious comments to help. 
+For preparation, you should spend more time on online forums instead of online judge sites when it's getting closer to your interview date.  
+
+#### Communication Skill
+Based on what I've seen for the past 5 years, lots of candidates are struggling with poor communication skills. I have seen people with great GPAs and went through hundreds and hundreds of Online Judge interview questions but still failed interviews. The reason is pretty simple: the interviewers can not understand their solution or they way they tackle the problem. If you think technical interviews and programming are only about coding, coding and coding, you are 100% wrong. It is far more important to express your thoughts and problem solving skills than just writing your code. Interviewers are looking for ways they can assess your abilities as programmer and if you don't talk them through your solution you are not offering enough materials to your interviewers to write their assessments. 
+Here are few suggestions for building up your communication skills:
+1.Practice explaining your solution in English. This is a very oblivous point lots of people missed in their preparation. No matter how execellent your code solution is, you will need to explain your code to your interviewers so I highly suggested you to practice explaining your solution verbally while solving it. It may sound a little bit silly but you will gain a lot from do this. 
+2.Get a good amount of feedback regarding your communication skills from someone with whom you interact regularly or who is working in the industry.Try to book your TAs/professors' office hour for doing some communication training where your focus is on explaning your solutions and throughts and ask they to correct or refine your language. 
+3.Attend interviews as many as possible even for companies your are not considering at all or do mocking interviews from online websites to school job fair events. The more interviews you had, the more experiences you accumulated.
+
+### Knowledge Checklist
+
+#### Data Structure
+
+##### Basic
+
+##### Advance
+
+#### Algorithms
+
+##### Time/Space Complexity
+
+##### Basic
+
+##### Advance
