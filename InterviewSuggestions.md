@@ -16,14 +16,8 @@ A simple general guide for college students to prepare coding interviews based o
       - [Online Forum]()
       - [Communication Skill]()
   - [Knowledge Checklist]()
-    - [Data Structure]()
-      - [Basic]()
-      - [Advance]()
-    - [Algorithms]()
-      - [Time/Space Complexity]()
-      - [Basic]()
-      - [Advance]()
-      
+    - [Basic]()
+    - [Advance]()
 
 ## Preparation Strategy
 Again, the purpose of this article is not for showing how to solve a specific coding problem. This is more close to a roadmap for preparing a code interview from writing resume to attending onsite interviews based my own experiences. I hope this strategy could help.
@@ -104,17 +98,42 @@ Here are few suggestions for building up your communication skills:
 3.Attend interviews as many as possible even for companies your are not considering at all or do mocking interviews from online websites to school job fair events. The more interviews you had, the more experiences you accumulated.
 
 ### Knowledge Checklist
-
-#### Data Structure
-
-##### Basic
-
-##### Advance
-
-#### Algorithms
-
-##### Time/Space Complexity
+Below is a list of key concept/alogirtm/data structure you should be familiar with in a certain level. 
 
 ##### Basic
-
+  Array/Hashmap/Dictionary
+  Pointer
+  Single/Double Linked-List
+  Queue
+  Stack  
+  Binary Tree
+  Buble Sort
+  Selection Sort
+  Merge/Quick Sort
+  Topological Sort
+  Simple Graph (adjacency matrix/adjacency list representation)
+  Tree Traversal
+  Binary Search
+  Depth-first Search/Backtracking
+  Breadth-first Search
+  Recursion
+  Greedy
+  Divide Conquer
+  Bit Manipulation
 ##### Advance
+  Minimum Spanning Tree
+  Shortest-path tree(Dijkstra's algorithm / Bellman–Ford algorithm)
+  Trie 
+  Union
+  Set
+  Binary Search Tree
+  B-tree
+  Heaps
+  Trie
+  Segment tree
+  Graph
+  Directed Acyclic Graph
+  Heap/Heapsort
+  Union Finding
+  Segment Tree
+  
