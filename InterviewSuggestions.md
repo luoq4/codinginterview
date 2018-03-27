@@ -1,8 +1,8 @@
 # Wei's General Suggestions For College Students on Preparing Coding Interview
 A simple general guide for college students to prepare coding interviews based on my own experiences.
 
-## Modified Date: 3.26.2018 ##
-## Status: Draft
+Modified Date: 3.26.2018 ##
+Status: Draft
 
 ## Table of Contents
   - [Preparation Strategy](#preparation-strategy)
