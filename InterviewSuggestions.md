@@ -10,7 +10,7 @@ A simple general guide for college students to prepare coding interviews based o
       - [Keywords](#keywords)
       - [Education and Course Projects](#education-and-course-projects)
     - [Technical(Coding) Interview](#technical(coding)-interview)
-      - [Language](#language)
+      - [Coding Languages](#coding-languages)
       - [Books](#books)
       - [Online Judge](#online-judge)
       - [Online Forum](#online-forum)
@@ -49,7 +49,7 @@ As long as you can detail your work/contribution/learning from certain project, 
 ### Technical(Coding) Interview
 I guess this is the most crucial part of all. No matter how fancy your resume is, in the end, for most software engineer jobs, there will be a coding interview, or technical interview. As I know, for some very senior software engineer position which is looking for candidates with 12+ years of working experinece, coding interview is still an inevatable part. So it is important for every engineer to build up and maintain a good coding interview skillset. 
 
-#### Languages
+#### Coding Languages
 Lots of college students asked me about what they should do in choosing an interview primary language. For most technical companies, languages don't matter as long as you are familiar with one of the main languages. Although some companies(very rare) might be requiring a specific interview language (Bloomberg usually asks interviewees to code in C++), most of the cases knowing one major languages (C++/JAVA/C#/Python/JavaScript) is pretty enough to handle the situation and college students should all be ok as all schools will require them to learn at least one of them. When scheduling your interviews with your HR, you can ask them or they will usually ask you first about your language preferrence. 
 
 The other question is about how well you should know the language. I think as long as you know the basic syntax like for/while loop, class, variable, array, list and common operations including functions/methods(print/sum/abs..),casting, exceptions and basic OOP related things(class/interface/overloading/overriding), you should be ok. It is totally ok to make syntax mistakes during interviews, your interviewers should understand that as long as you are  able to explain your thinkings/idea with pseudo code and not making siginificant language specific logic mistakes(things like writing a pointer in JAVA or using {} instead of indention in Python). A good technical company should have their technical interview focus on problem solving skills, algorithm, smartness or even computer sciences but never on syntax details. 
@@ -58,10 +58,14 @@ Here is a article I found really useful:
 - [Choosing a Programming Language for Interviews](http://blog.codingforinterviews.com/best-programming-language-jobs/)
 
 #### Books
-There are so many books you can read but I personally think the famous [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) is pretty enough. Overall, this book is serving more as a guide book instead of an ultimate bible. As the competition is growing daily, lots staff in this book have become either too simple or too-well-known-to-ask. For starters, I think you should definetely read this book (mostly focus on the coding questions) and build a clear understanding of 1.what data structure and algorithm is and 2.what kind of coding question you will be asked during a technical interviews. 
+There are so many books you can read but I personally think the famous [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) is pretty enough. Overall, this book is serving more as a guide book instead of an ultimate bible. As the competition is growing daily, lots staff in this book have become either too simple or too-well-known-to-ask. For starters, I think you should definetely read this book (mostly focus on the coding questions) and build a clear understanding of 
+  
+  1.what data structure and algorithm is and 
+  2.what kind of coding question you will be asked during a technical interviews. 
+
 However, don't spend too much time on reading this book as it's too well known and you still need code in real instead of just reading. My general idea on dealing with a technical interview question in this book and also the following Online Judge section is to look at the question and if you can not solve it or at least you think you can not solve it in an efficent way within 5 mins, go to the solution. This may sound frustrating (actually it does make people feel very frustrating),but trust me this is the most effeint way to "crack" coding interview. As more solutions you have seen, you will gain more experiences or I will call it "common senses" on handling an algorithm question and eventually you will become independent enough to solve something similar all by yourself. 
 
-### Online Judge
+#### Online Judge
 Online Judge might be the handiest tool for preparing technical interviews as they offer real coding experiences and a whole bunch of fresh questions that you may actually face in an interview. I only used [LeetCode](https://leetcode.com/) and I also heard [LintCode](https://www.lintcode.com/) is also good. My general philosophy on doing Online Judge is it's not a competition of knowing the most interview questions but building up a systematical skillset. Your focus should be on a qualitative result not quantitative. I know a few engineers who don't even know the existance of LeetCode or LintCode but they can pass every interview and I also know some candiates who did every single question in LeetCode but still have diffculties getting an offer. In short, when practising in Online Judges, focus on what you are actually learning rather than how many qestions you have solved. 
 
 Here is my advices based on my experiences about using LeetCode:
