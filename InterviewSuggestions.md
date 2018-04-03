@@ -64,10 +64,10 @@ Here is an article I highly recommend you to read about interview language:
 - [Choosing a Programming Language for Interviews](http://blog.codingforinterviews.com/best-programming-language-jobs/)
 
 #### Books
-There are so many books you can read but I think the famous [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) is pretty enough if you only have time to read one. Overall, this book is more like a guidebook instead of a bible. As the competition is growing daily, lots stuff in this book have become either too simple or too-well-known-to-ask. For starters, I think you should definitely read this book (mostly focus on the coding questions) and build a clear understanding of 
-  
-  1.what data structure and algorithm are and 
-  2.what kind of coding question you will be asked during a technical interview. 
+There are so many books you can read but I think the famous [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) is pretty enough if you only have time to read one. Overall, this book is more like a guidebook instead of a bible. As the competition is growing daily, lots stuff in this book have become either too simple or too-well-known-to-ask. For starters, I think you should definitely read this book (mostly focus on the coding questions) and build a clear understanding on
+
+- **what data structure and algorithm are and** 
+- **what kind of coding question you will be asked during a technical interview**
 
 However, don't spend too much time on reading this book as it's too well known and you still need to do real coding challenges instead of just reading. My preferred way of dealing with a coding interview question in this book is to look at the question and if you can not solve it or at least you think you can not solve it in an efficient way within 5 mins, go to the solution. This may sound frustrating (actually it does make people feel very frustrating), but trust me this is the most efficient way to "crack" coding interview. As more solutions you have seen, you will gain more experiences or I will call it "common senses" on handling an algorithm question and eventually you will become independent enough to solve something similar all by yourself. 
 
@@ -76,42 +76,50 @@ Online Judge might be the handiest tool for preparing coding interviews as they 
 
 Here are my advice based on my experiences about using LeetCode:
 
-  1.Reading through Cracking Code Interview to know the all common things about data structures and algorithm, if you can answer following questions you are ready to proceed:
+1. Reading through Cracking Code Interview to know the all common things about data structures and algorithm, if you can answer following questions you are ready to proceed:
     - Can you write a quick sort and what is the time complexity?
     - Give an example of DFS 
     - Give an example of BFS
     - Write a double-linked list
     - What is the difference between Stack and Queue 
 
-  2.As you started solving questions one-by-one, applying the strategy as I mentioned before about reading the book: 
-    Step1. Look at the question, try to come up with a good and efficient idea (not the actual code solution, just the thoughts) within 5 mins. If you have no confidence in your idea, go to Step 4. If you believe your solution could work start coding.
-    Step2. If you can not finish your code solution within 20 mins, go to step 4
-    Step3. No matter if your solution passes the Online Judge or not, go to step 4
-    Step4. Google the MOST STANDARD(EFFICIENCY AND SIMPLICITY) solution you can find and understand: 
-      1. What kind of algorithm does the solution use? 
-      2. What is the time/space complexity? 
-      3. Do you think this solution is better than yours(If you have one) or not? Why?
-  These steps help you to gain more out of solving a problem. A common problem lots of people have, especially those focus on quantity, is to have a very limited knowledge gain. If your goal is just to pass the Online Judge, you are missing the point in a big time.
+2. As you started solving questions one-by-one, applying the strategy as I mentioned before about reading the book: 
+    
+    - **Step1**. Look at the question, try to come up with a good and efficient idea (not the actual code solution, just the thoughts) within 5 mins. If you have no confidence in your idea, go to Step 4. If you believe your solution could work start coding.
+    
+    - **Step2**. If you can not finish your code solution within 20 mins, go to step 4
+    
+    - **Step3**. No matter if your solution passes the Online Judge or not, go to step 4
+    
+    - **Step4**. Google the MOST STANDARD(EFFICIENCY AND SIMPLICITY) solution you can find and ask yourself: 
+        - **What kind of algorithm does the solution use?** 
+        - **What is the time/space complexity?** 
+        - **Do you think this solution is better than yours(If you have one) or not? Why?**
+    * These steps help you to gain more out of solving a problem. A common problem lots of people have, especially those focus on quantity, is to have a very limited knowledge gain. If your goal is just to pass the Online Judge, you are missing the point in a big time.
 
-  3.For some algorithm solution(Dijkstra, heap sort, trie, or even quicksort), you may have difficulty fully understanding it, then try to memorize the solution template and practice writing from memory. I was once having difficulties writing a 100% correct heap sort including insertion/deletion/search, so I memorized it (about 50 lines of python code) and eventually, it helped me on fully understanding it.
+3. For some algorithm solution(Dijkstra, heap sort, trie, or even quicksort), you may have difficulty fully understanding it, then try to memorize the solution template and practice writing from memory. I was once having difficulties writing a 100% correct heap sort including insertion/deletion/search, so I memorized it (about 50 lines of python code) and eventually, it helped me on fully understanding it.
 
-  4.For Dynamic Programming, my advice is don't worry too much, As you may know, lots of people including myself consider DP as the most difficult part of the algorithm but it is actually not that bad in technical interviews. Recently years, lots of company start to avoid DP in interviews as a DP question cannot help the interviewer to assess candidates. Understand most easy/medium DP questions from OJ is enough. Don't waste your time in hard DP question, this is about cracking the interview, not algorithm science.
+4. For Dynamic Programming, my advice is don't worry too much, As you may know, lots of people including myself consider DP as the most difficult part of the algorithm but it is actually not that bad in technical interviews. Recently years, lots of company start to avoid DP in interviews as a DP question cannot help the interviewer to assess candidates. Understand most easy/medium DP questions from OJ is enough. Don't waste your time in hard DP question, this is about cracking the interview, not algorithm science.
 
 #### Online Forum
 There is a lot of online forum where people talk about interview experiences and particular interview questions. Spending few minutes a day on them could be quite beneficial. The one I used most is [1point3acres](https://www.1point3acres.com/bbs/) where most contributors are Chinese and you can get lots of useful info and also share your own experiences. Another good place to go is [GeeksforGeeks](https://www.geeksforgeeks.org) where recently it got some major updates and has become a very professional coding interview preparation Community. As most of the Chinese students would prefer 1point3acres as it is mainly written in Chinese, I strongly encourage you to take a look at GeeksforGeeks for 
-  1.Getting familiar with understanding/discussing your algorithm questions in English; 
-  2.Reading well formatted and professional articles about solving an algorithm problem in English. Most posts I found in 1point3acres are more like casual chats and it is not easy to systematically understand a solution thru those posts but there are lots of well-written articles on GeeskforGeeks where posters show their step-by-step thoughts with lots of serious comments to help. 
+    
+- **Getting familiar with understanding/discussing your algorithm questions in English.**
+- **Reading well formatted and professional articles about solving an algorithm problem in English.** 
+    
+Most posts I found in 1point3acres are more like casual chats and it is not easy to systematically understand a solution thru those posts but there are lots of well-written articles on GeeskforGeeks where posters show their step-by-step thoughts with lots of serious comments to help. 
+
 For preparation, you should spend more time on online forums instead of online judge sites when it's getting closer to your interview date.  
 
 #### Communication Skill
 Based on what I've seen for the past 5 years, lots of candidates are struggling with poor communication skills. I have seen people with great GPAs and went through hundreds and hundreds of Online Judge interview questions but still failed interviews. The reason is pretty simple: the interviewers cannot understand candidates' solution or the way they tackle the question as candidates don't know how to clearly explain their thoughts in Enligsh. If you think technical interviews and programming are only about coding, coding, and coding, you are totally wrong. It is far more important to verbally express your thoughts and problem-solving skills than just writing your code. Interviewers are looking for ways they can assess your abilities as a day-to-day working programmer and if you don't talk them through your solution you are not offering enough materials to your interviewers to write their assessments. 
 Here are few suggestions for building up your communication skills:
 
-  1.Practice explaining your solution in English. This is a very oblivious point that lots of people missed in their preparation. No matter how excellent your code solution is, you will need to explain your code to your interviewers so I highly recommend you practice explaining your solution verbally while solving it. It may sound a little bit silly but you will gain a lot from doing this. 
+  1. Practice explaining your solution in English. This is a very oblivious point that lots of people missed in their preparation. No matter how excellent your code solution is, you will need to explain your code to your interviewers so I highly recommend you practice explaining your solution verbally while solving it. It may sound a little bit silly but you will gain a lot from doing this. 
 
-  2.Get a good amount of feedback regarding your communication skills from someone with whom you interact regularly or who are working in the industry. Try to book your TAs/professors' office hour for doing some communication training where your focus is on explaining your solutions and thoughts and ask them to correct or refine your language. 
+  2. Get a good amount of feedback regarding your communication skills from someone with whom you interact regularly or who are working in the industry. Try to book your TAs/professors' office hour for doing some communication training where your focus is on explaining your solutions and thoughts and ask them to correct or refine your language. 
 
-  3.Attend interviews as many as possible even for companies you are not considering at all or do mocking interviews from online websites and school job fair events. The more interviews you had, the more experiences you accumulated.
+  3. Attend interviews as many as possible even for companies you are not considering at all or do mocking interviews from online websites and school job fair events. The more interviews you had, the more experiences you accumulated.
 
 ### Knowledge Checklist
 Below is a list of key concept/algorithm/data structure you should be familiar with in a certain level. 
