@@ -4,8 +4,8 @@ A general guide to coding interview for college students based on my own experie
 ## Intro
 The purpose of this article is not for showing solutions for particular coding questions. This is more like a roadmap for preparing a coding interview from tips in a resume to attending coding interviews based my own experiences. I hope this could help.
 
-Modified Date: 4.1.2018 
-Status: Draft
+Modified Date: 4.2.2018 
+Status: v.1
 
 ## Table of Contents
   - [Resume](#resume)
