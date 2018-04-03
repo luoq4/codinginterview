@@ -10,8 +10,8 @@ Status: v.1
 ## Table of Contents
   - [Resume](#resume)
     - [Keywords](#keywords)
-    - [Education and Course Projects](#education-and-course-projects)
-  - [Technical(Coding) Interview](#technical(coding)-interview)
+    - [Experiences and Course Projects](#experiences-and-course-projects)
+  - [Coding(Technical) Interview](#coding(technical)-interview)
     - [Coding Languages](#coding-languages)
     - [Books](#books)
     - [Online Judge](#online-judge)
