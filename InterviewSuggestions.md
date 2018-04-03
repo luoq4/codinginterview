@@ -2,7 +2,7 @@
 Tips for coding interview as college students based on my own experiences.
 
 ## Intro
-The purpose of this article is not for showing solutions for particular coding questions. This is more like a BEST PRACTICE for preparing a coding interview from writing a resume to attending coding interviews based my own experiences. I hope this could help.
+The purpose of this article is not to show solutions for some particular coding questions. This is more like BEST PRACTICES for preparing a coding interview from writing a resume to attending coding interviews based my own experiences. I hope this could help.
 
 Modified Date: 4.2.2018 
 Status: v.1
