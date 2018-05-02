@@ -4,8 +4,8 @@ Tips for coding interview as college students based on my own experiences.
 ## Intro
 The purpose of this article is not to show solutions for some particular coding questions. This is more like BEST PRACTICES for preparing a coding interview from writing a resume to attending coding interviews based my own experiences. I hope this can help.
 
-Modified Date: 4.2.2018 
-Status: v.1
+Modified Date: 5.1.2018 
+Status: v.1.2
 
 ## Table of Contents
   - [Resume](#resume)
@@ -127,6 +127,8 @@ Below is a table of key concept/algorithm/data structure you should be familiar 
  - Concept:  Know the mechanism and Time/Space compliexity
  - Use Case: Know why and when to use
  - Implementation: Be able to code the implementation for solving a (Easy/Medium/Jard based on LeetCode classification) question
+
+If you can match this requirement with good communication skill you will be able to pass most tech companies' full time position interview.
 
 ##### Basic
 |              Topics             | Concept | Use Case | Implementation |
