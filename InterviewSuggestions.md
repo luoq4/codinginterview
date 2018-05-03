@@ -4,8 +4,8 @@ Tips for coding interview as college students based on my own experiences.
 ## Intro
 The purpose of this article is not to show solutions for some particular coding questions. This is more like BEST PRACTICES for preparing a coding interview from writing a resume to attending coding interviews based my own experiences. I hope this can help.
 
-Modified Date: 5.1.2018 
-Status: v.1.2
+Modified Date: 5.2.2018 
+Status: v.1.21
 
 ## Table of Contents
   - [Resume](#resume)
@@ -17,6 +17,7 @@ Status: v.1.2
     - [Online Judge](#online-judge)
     - [Online Forum](#online-forum)
     - [Communication Skill](#communication-skill)
+  - [Preparation Timeline](#timeline)
   - [Knowledge Checklist](#knowledge-checklist)
     - [Basic](#basic)
     - [Advance](#advance)
@@ -121,6 +122,24 @@ Here are few suggestions for building up your communication skills:
   2. Get a good amount of feedback regarding your communication skills from someone with whom you interact regularly or who are working in the industry. Try to book your TAs/professors' office hour for doing some communication training where your focus is on explaining your solutions and thoughts and ask them to correct or refine your language. 
 
   3. Attend interviews as many as possible even for companies you are not considering at all or do mocking interviews from online websites and school job fair events. The more interviews you had, the more experiences you accumulated.
+
+### Prepartion Timeline
+Having a clear career prepartion timeline can bring one a handful of advantages especially for fulltime and internship coding interviews which will require a considerable amount of time in doing things I talke about above. Here I will state three ideal timeline for college students.
+
+#### Four-year Undergraduate
+Below is a normal timeline for a four-year undergraduate student from Sophomore to Graduation.
+
+Second Summer Vacation - Junior - Third Summer Vacation - Senior - Graduation
+
+If you want to have a 3 months summer internship before graduation, the third summer vacation between junior and senior is the best slot for planning this. However, most companies will start their internship hiring process as early as September of the previous year meaning you will need to start preparation right at beginning of your junior year. For preparing a internship interview, I think one should spend about 30-50 hours in studying and doing coding questions.  Let's say on average if you can spend one hour daily (it may sound easy but considering you are also taking regular junior courses, this is not an easy task), it will take about one month before you are ready for intership interviews. 
+
+Having a summer internship can bring huge advantages for candidates who also want to have a full time job after graduation. First of all, having this 3-month full time experience added to your resume will certainly put your resume into the tier-1 bucket and highly increase your chances of getting more interviews for full time job. Secondly, if you can do well in your summer internship you might be able to secure a return offer which is not only a great relief for your senior year life but also a leverage for any further job seeking process.
+
+The same thing applys to full time position where you need to start looking at beginning of your senior year. Unfortunately, for most companies the bar for full time job is higher than a summer internship. I recommend one to spend about 40-80 hours in preparation if one hasn't done the summer internship preparation.
+
+#### One-year Graduate 
+
+#### Two-year Graduate
 
 ### Knowledge Checklist
 Below is a table of key concept/algorithm/data structure you should be familiar with in a certain level: 
