@@ -1,11 +1,12 @@
+
 # Wei's Tips For College Students on Preparing Coding Interview
 Tips for coding interview as college students based on my own experiences.
 
 ## Intro
 The purpose of this article is not to show solutions for some particular coding questions. This is more like BEST PRACTICES for preparing a coding interview from writing a resume to attending coding interviews based my own experiences. I hope this can help.
 
-Modified Date: 5.2.2018 
-Status: v.1.21
+Modified Date: 5.6.2018 
+Status: v.2
 
 ## Table of Contents
   - [Resume](#resume)
@@ -17,7 +18,7 @@ Status: v.1.21
     - [Online Judge](#online-judge)
     - [Online Forum](#online-forum)
     - [Communication Skill](#communication-skill)
-  - [Preparation Timeline](#timeline)
+  - [Preparation Timeline](#preparation-timeline)
   - [Knowledge Checklist](#knowledge-checklist)
     - [Basic](#basic)
     - [Advance](#advance)
@@ -30,7 +31,7 @@ Having a resume is the very first thing you need when applying for a full time o
 While recruiters look for keywords, engineers usually look for technical details like algorithms, techniques and some niche skills. The projects/experiences section, with technical implementation descriptions, is another vital part of the resume and perhaps the most conclusive one. 
 
 #### Keywords
-For most of time, the initial machince/HR screen is inevitable. As some of you may know, if your resume is submitted as an internal referral, the machine screen may not apply to your resume but HR screen can also happen regardless your resume is an external or internal application. Most HR screen will focus on a list of keywords and if your resume doesn't have them, it could be filtered out. Some people call this [Buzzwords Screen](https://qz.com/229570/here-are-most-valuable-skills-in-americas-tech-job-market/). If you are looking for a CS related job, a resume with Electrical Engineering major is more like to be filtered out than an Electrical Engineering major with a specialization in Computer Science or Computer Science Engineering. I know this sounds unfair as I met a lot of people with different majors doing a great job in software/web development, but when the job market is crowded with applicants and the headcounts are limited, a company has to follow its rules to put CS major as its first priority.
+For most of the time, the initial machine/HR screen is inevitable. As some of you may know, if your resume is submitted as an internal referral, the machine screen may not apply to your resume but HR screen can also happen regardless your resume is an external or internal application. Most HR screen will focus on a list of keywords and if your resume doesn't have them, it could be filtered out. Some people call this [Buzzwords Screen](https://qz.com/229570/here-are-most-valuable-skills-in-americas-tech-job-market/). If you are looking for a CS related job, a resume with Electrical Engineering major is more like to be filtered out than an Electrical Engineering major with a specialization in Computer Science or Computer Science Engineering. I know this sounds unfair as I met a lot of people with different majors doing a great job in software/web development, but when the job market is crowded with applicants and the headcounts are limited, a company has to follow its rules to put CS major as its first priority.
 
 Knowing this fact, wording becomes a vital part of your resume.
 
@@ -47,7 +48,7 @@ Here is a list of discussion about Buzzwords, take a look :
 #### Experiences and Course Projects
 For college students who don't have too many external working experiences(which will apply to everyone looking for their first job. Don't worry, nobody born with a software development job), education and course projects will play the biggest part of your resume unless you did lots of side projects.
 
-No HR/Hiring manager is expecting a green college student to have experiences of building a Windows or Facebook. Don't be shy to mention your course projects in your resume even though it is just a homework or group project. All you need to do is having details in your resume where you can show your "engineering way" of solving problems. "Using a sorted hash map to reduce time complexity" is much more interesting than "wrote a class schedule app". Just keep in mind, it's more effective to elaborate your course projects than just put the title and a simple description of the courses in your resume. Your resume is not a mini version of your college syllabus. You should spend more words on explaining what you have done in a course project and the impact your implementation instead of just listing courses contents.
+No HR/Hiring manager is expecting a green college student to have experiences of building a Windows or Facebook. Don't be shy to mention your course projects in your resume even though it is just a homework or group project. All you need to do is having details in your resume where you can show your "engineering way" of solving problems. "Using a sorted hash map to reduce time complexity" is much more interesting than, "wrote a class schedule app". Just keep in mind, it's more effective to elaborate your course projects than just put the title and a simple description of the courses on your resume. Your resume is not a mini version of your college syllabus. You should spend more words on explaining what you have done in a course project and the impact your implementation instead of just listing courses contents.
 
 As long as you can detail your work/contribution/learning from a certain project, it is very valuable for their assessment.
 
@@ -55,7 +56,7 @@ As long as you can detail your work/contribution/learning from a certain project
 I guess this is the most crucial part of all. No matter how fancy your resume is, in the end, for most software engineer jobs there will be a coding interview. As far as I know, for some very senior software engineer position which is looking for candidates with 10+ years of working experience, the coding interview is still an inevitable part. So it is important for every engineer to build up and maintain a good coding interview skillset. 
 
 #### Coding Languages
-Lots of college students asked me for advice in choosing an primary interview language. For most technical companies, languages don't matter as long as you are familiar with one of the main languages. Although some companies(very rare) might be requiring a specific interview language (Bloomberg usually asks interviewees to code in C++), most of the cases knowing one major languages (C++/JAVA/C#/Python/JavaScript) is pretty enough to handle the situation and college students should all be fine as all schools will require them to learn at least one of major languages. When scheduling your interviews with your HR, you can ask them or they will usually ask you first about your language preference. 
+Lots of college students asked me for advice in choosing a primary interview language. For most technical companies, languages don't matter as long as you are familiar with one of the main languages. Although some companies(very rare) might be requiring a specific interview language (Bloomberg usually asks interviewees to code in C++), most of the cases knowing one major languages (C++/JAVA/C#/Python/JavaScript) is pretty enough to handle the situation and college students should all be fine as all schools will require them to learn at least one of major languages. When scheduling your interviews with your HR, you can ask them or they will usually ask you first about your language preference. 
 
 The other question is how well you should know the language. I think as long as you know the basic syntax like for/while loop, class, variable, array, list and common operations including functions/methods(print/sum/abs..), casting, exceptions and basic OOP related things(class/interface/overloading/overriding), you should be ok. It is totally normal to make syntax errors during coding interviews. Most interviewers should understand and tolerate syntax errors as long as you are able to explain your thoughts with pseudo code and not make significant language specific logic errors(things like writing a pointer in JAVA or using {} instead of indention in Python). A good technical company should have their technical interviews focus on problem-solving skills, algorithm, smartness or even computer sciences but never on syntax details. 
 
@@ -65,12 +66,12 @@ Here is an article I highly recommend you to read about interview languages:
 - [Choosing a Programming Language for Interviews](http://blog.codingforinterviews.com/best-programming-language-jobs/)
 
 #### Books
-There are so many books you can read but I think the famous [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) is pretty enough if you only have time to read one. Overall, this book is more like a guidebook instead of an almighty bible. As the competition is growing daily, lots stuff in this book have become either too simple or too-well-known-to-ask. For starters, I think you should definitely read this book (mostly focus on the coding questions) and build a clear understanding on
+There are so many books you can read but I think the famous [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) is pretty enough if you only have time to read one. Overall, this book is more like a guidebook instead of an almighty bible. As the competition is growing daily, lots stuff in this book have become either too simple or too-well-known-to-ask. For starters, I think you should definitely read this book (mostly focus on the coding questions) and build a clear understanding of
 
 - **what data structure and algorithm are** 
 - **what kind of coding question you will be asked during a technical interview**
 
-However, don't spend too much time on reading this book as it's too well known and you still need to do real coding challenges instead of just reading. My preferred way of dealing with a coding interview question in this book is to look at the question and if you can not solve it or at least you think you can not solve it in an efficient way within 5 mins, go to the solution. This may sound frustrating (actually it does make people feel very frustrating), but trust me this is the most effective way to "crack" coding interview. As more solutions you have seen, you will gain more experiences or I will call it "common senses" on handling an algorithm question and eventually you will become independent enough to solve something similar all by yourself. 
+However, don't spend too much time reading this book as it's too well known and you still need to do real coding challenges instead of just reading. My preferred way of dealing with a coding interview question in this book is to look at the question and if you can not solve it or at least you think you can not solve it in an efficient way within 5 mins, go to the solution. This may sound frustrating (actually it does make people feel very frustrating), but trust me this is the most effective way to "crack" coding interview. As more solutions you have seen, you will gain more experiences or I will call it "common senses" on handling an algorithm question and eventually you will become independent enough to solve something similar all by yourself. 
 
 #### Online Judge
 Online Judge might be the handiest tool for preparing coding interviews as they offer real coding experiences and a whole bunch of fresh questions that you may actually face during an interview. I only used [LeetCode](https://leetcode.com/) but I also heard [LintCode](https://www.lintcode.com/) is also good. My general philosophy on doing Online Judge is it's not a competition of knowing the most interview questions but building up a systematical skillset. Your focus should be on a qualitative result not quantitative. I know a few engineers who don't even know the existence of LeetCode or LintCode but they can nail every single interview and I also know some candidates who did every single question in LeetCode but still have difficulty getting an offer. In short, when practicing in Online Judges, focus on what you are actually learning rather than how many questions you have solved. 
@@ -79,8 +80,8 @@ Here are my advice based on my experiences about using LeetCode:
 
 1. Reading through Cracking Code Interview book to know the all common things about data structures and algorithm, if you can answer following questions you are ready to proceed:
     - Can you write a quick sort and what is the time complexity?
-    - Give an example of using DFS to solve a interview question 
-    - Give an example of using BFS to solve a interview question 
+    - Give an example of using DFS to solve an interview question 
+    - Give an example of using BFS to solve an interview question 
     - Write a double-linked list
     - What is the difference between Stack and Queue 
 
@@ -123,31 +124,40 @@ Here are few suggestions for building up your communication skills:
 
   3. Attend interviews as many as possible even for companies you are not considering at all or do mocking interviews from online websites and school job fair events. The more interviews you had, the more experiences you accumulated.
 
-### Prepartion Timeline
-Having a clear career prepartion timeline can bring one a handful of advantages especially for fulltime and internship coding interviews which will require a considerable amount of time in doing things I talke about above. Here I will state three ideal timeline for college students.
+### Preparation Timeline
+Having a clear career preparation timeline can bring one a handful of advantages especially for fulltime and internship coding interviews which will require a considerable amount of time in doing things I talk about above. Here I will state three ideal timelines for college students.
 
-#### Four-year Undergraduate
-Below is a normal timeline for a four-year undergraduate student from Sophomore to Graduation.
+#### Four-year Bachelor Program
+Below is a normal timeline for a four-year undergraduate student from junior to graduation.
 
-Second Summer Vacation - Junior - Third Summer Vacation - Senior - Graduation
+Junior Begin (Summer Internship Job Search) - Third Summer Vacation (Summer Internship) - Senior Begin (Full-time Job Search) - Graduation - Full-time Job 
 
-If you want to have a 3 months summer internship before graduation, the third summer vacation between junior and senior is the best slot for planning this. However, most companies will start their internship hiring process as early as September of the previous year meaning you will need to start preparation right at beginning of your junior year. For preparing a internship interview, I think one should spend about 30-50 hours in studying and doing coding questions.  Let's say on average if you can spend one hour daily (it may sound easy but considering you are also taking regular junior courses, this is not an easy task), it will take about one month before you are ready for intership interviews. 
+If you want to have a 3 months summer internship before graduation, the third summer vacation between junior and senior is the best slot for having this internship. However, most companies will start their internship hiring process as early as September of the previous year meaning you will need to start preparation right at beginning of your junior year. For preparing an internship interview, I think one should spend about 30-50 hours in studying and doing coding questions.  Let's say on average if you can spend one hour daily (it may sound easy but considering you are also taking regular junior courses, this is not an easy task), it will take about one month before you are ready for internship interviews. 
 
-Having a summer internship can bring huge advantages for candidates who also want to have a full time job after graduation. First of all, having this 3-month full time experience added to your resume will certainly put your resume into the tier-1 bucket and highly increase your chances of getting more interviews for full time job. Secondly, if you can do well in your summer internship you might be able to secure a return offer which is not only a great relief for your senior year life but also a leverage for any further job seeking process.
+Having a summer internship can bring huge advantages for candidates who also want to have a full-time job after graduation. Undoubtedly, having this 3-month full-time experience added to your resume will certainly put your resume into the tier-1 bucket and highly increase your chances of getting more interviews for a full-time job. In addition, if you can do well in your summer internship you might be able to secure a return offer which is not only a great relief for your senior year life but also a leverage for any further job seeking process.
 
-The same thing applys to full time position where you need to start looking at beginning of your senior year. Unfortunately, for most companies the bar for full time job is higher than a summer internship. I recommend one to spend about 40-80 hours in preparation if one hasn't done the summer internship preparation.
+The same thing applies to a full-time position where you need to start looking at beginning of your senior year. Unfortunately, for most companies, the bar for a full-time job is higher than a summer internship. I recommend one to spend about 40-80 hours in preparation if one hasn't done the summer internship preparation.
 
-#### One-year Graduate 
+#### Two-year Master Program
+First Year Begin (Summer Internship Job Search)- First Summer Vacation (Summer Internship)- Second Year Begin (Full-time Job Search)- Graduation - Full-time Job 
 
-#### Two-year Graduate
+For a regular two-year master program where the fall-term is the first term, the plan is almost identical to the four-year bachelor program. However, one will have to start the process immediately when the fall-term begin as there is no sophomore. 
+
+#### One-year Master Program 
+First-year Begin (Full-time Job Search) - Graduation - Full-time Job 
+
+For the one-year master program, the time is quite short and one will have to be fully prepared as you will have to: 1. Finish your master courses in 12 months and 2. find a full-time job within the same 12 months.
+
+Here is an article I recommend you to read for more details in planning your timeline:
+- [A Career Prep Timeline](http://www.collegiateparent.com/starting-college/academic-career/a-career-prep-timeline/)
 
 ### Knowledge Checklist
-Below is a table of key concept/algorithm/data structure you should be familiar with in a certain level: 
- - Concept:  Know the mechanism and Time/Space compliexity
+Below is a table of key concept/algorithm/data structure you should be familiar with at a certain level: 
+ - Concept:  Know the mechanism and Time/Space complexity
  - Use Case: Know why and when to use
- - Implementation: Be able to code the implementation for solving a (Easy/Medium/Jard based on LeetCode classification) question
+ - Implementation: Be able to code the implementation for solving an (Easy/Medium/Jard based on LeetCode classification) question. NA means not required if you don't have time for it.
 
-If you can match this requirement with good communication skill you will be able to pass most tech companies' full time position interview.
+If you can match this requirement with good communication skill you will be able to pass most tech companies' full-time position interview.
 
 ##### Basic
 |              Topics             | Concept | Use Case | Implementation |
@@ -175,14 +185,14 @@ If you can match this requirement with good communication skill you will be able
 ##### Advance
 |              Topics             | Concept | Use Case | Implementation |
 |:-------------------------------:|:-------:|:--------:|:--------------:|
-|      Minimum Spanning Tree      |    X    |     X    |                |
+|      Minimum Spanning Tree      |    X    |     X    |       NA       |
 |        Shortest-path tree       |    X    |     X    |     Medium     |
 |               Trie              |    X    |     X    |     Medium     |
 |          Union Finding          |    X    |     X    |     Medium     |
 |               Set               |    X    |     X    |     Medium     |
 |        Binary Search Tree       |    X    |     X    |     Medium     |
-|              B-tree             |    X    |          |                |
+|              B-tree             |    X    |          |       NA       |
 |          Heap/Heapsort          |    X    |     X    |     Medium     |
-|           Segment tree          |    X    |          |                |
+|           Segment tree          |    X    |          |       NA       |
 |      Directed Acyclic Graph     |    X    |     X    |     Medium     |
 |    Detecting Cycles in Graphs   |    X    |     X    |     Medium     |
