@@ -12,7 +12,7 @@ Modified Date: 5.7.2018
 Status: v.2.1
 
 ## Table of Contents
-TODO:UPDATE TABLE
+
   - [Resume](#resume)
     - [Keywords](#keywords)
     - [Experiences and Course Projects](#experiences-and-course-projects)
@@ -28,7 +28,6 @@ TODO:UPDATE TABLE
     - [Advance](#advance)
 
 ## Resume
-TODO:ADD SAMPLE RESUMES
 As there are so many guides about writing programming related resumes, I only want to talk about two oblivious topics: **Keyword**s and **Projects**.
 
 ### Keywords
@@ -109,7 +108,6 @@ Online Judge might be the handiest tool for preparing coding interviews as they 
 
 My general philosophy on doing Online Judge is it's not a competition of knowing the most interview questions but building up a systematical skillset. Your focus should be on a **qualitative** result **not quantitative**. I know a few engineers who don't even know the existence of LeetCode or LintCode but they can nail every single interview and I also know some candidates who did every single question in LeetCode but still have difficulty getting an offer. In short, when practicing in Online Judges, focus on what you are actually learning rather than how many questions you have solved. 
 
-TODO:ADD A FLOW GRAPH
 Here are my advice based on my experiences about using LeetCode:
 
 1. Reading through Cracking Code Interview book to know the all common things about data structures and algorithm, if you can answer following questions you are ready to proceed:
@@ -164,7 +162,6 @@ Here are few suggestions for building up your communication skills:
 Having a clear career preparation timeline can bring one a handful of advantages especially for fulltime and internship coding interviews which will require a considerable amount of time in doing things I talk about above. Here I will state three ideal timelines for college students.
 
 ### Four-year Bachelor Program
-TODO:ADD TIME-LINE GRAPH
 Below is a normal timeline for a four-year undergraduate student from junior to graduation.
 
 Junior Begin (Summer Internship Job Search) - Third Summer Vacation (Summer Internship) - Senior Begin (Full-time Job Search) - Graduation - Full-time Job 
@@ -189,7 +186,6 @@ Here is an article I recommend you to read for more details in planning your tim
 - [A Career Prep Timeline](http://www.collegiateparent.com/starting-college/academic-career/a-career-prep-timeline/)
 
 ## Knowledge Checklist
-TODO:REVISIT LISTS
 
 ### Level of Understanding
 Below is a table of key concept/algorithm/data structure you should be familiar with at a certain level: 
