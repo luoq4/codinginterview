@@ -12,7 +12,7 @@ Modified Date: 5.7.2018
 Status: v.2.1
 
 ## Table of Contents
-**TODO:UPDATE**
+TODO:UPDATE TABLE
   - [Resume](#resume)
     - [Keywords](#keywords)
     - [Experiences and Course Projects](#experiences-and-course-projects)
@@ -28,7 +28,7 @@ Status: v.2.1
     - [Advance](#advance)
 
 ## Resume
-**TODO:ADD SAMPLE RESUMES**
+TODO:ADD SAMPLE RESUMES
 As there are so many guides about writing programming related resumes, I only want to talk about two oblivious topics: **Keyword**s and **Projects**.
 
 ### Keywords
@@ -109,7 +109,7 @@ Online Judge might be the handiest tool for preparing coding interviews as they 
 
 My general philosophy on doing Online Judge is it's not a competition of knowing the most interview questions but building up a systematical skillset. Your focus should be on a **qualitative** result **not quantitative**. I know a few engineers who don't even know the existence of LeetCode or LintCode but they can nail every single interview and I also know some candidates who did every single question in LeetCode but still have difficulty getting an offer. In short, when practicing in Online Judges, focus on what you are actually learning rather than how many questions you have solved. 
 
-**TODO:ADD A FLOW GRAPH**
+TODO:ADD A FLOW GRAPH
 Here are my advice based on my experiences about using LeetCode:
 
 1. Reading through Cracking Code Interview book to know the all common things about data structures and algorithm, if you can answer following questions you are ready to proceed:
@@ -188,7 +188,7 @@ Here is an article I recommend you to read for more details in planning your tim
 - [A Career Prep Timeline](http://www.collegiateparent.com/starting-college/academic-career/a-career-prep-timeline/)
 
 ## Knowledge Checklist
-**TODO:REVISITED LISTS**
+TODO:REVISIT LISTS
 
 ### Level of Understanding
 Below is a table of key concept/algorithm/data structure you should be familiar with at a certain level: 
