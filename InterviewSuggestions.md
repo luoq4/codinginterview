@@ -164,6 +164,7 @@ Here are few suggestions for building up your communication skills:
 Having a clear career preparation timeline can bring one a handful of advantages especially for fulltime and internship coding interviews which will require a considerable amount of time in doing things I talk about above. Here I will state three ideal timelines for college students.
 
 ### Four-year Bachelor Program
+TODO:ADD TIME-LINE GRAPH
 Below is a normal timeline for a four-year undergraduate student from junior to graduation.
 
 Junior Begin (Summer Internship Job Search) - Third Summer Vacation (Summer Internship) - Senior Begin (Full-time Job Search) - Graduation - Full-time Job 
